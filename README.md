@@ -4,11 +4,14 @@ A curated listing of sites selling exclusively custom map-related products such 
 ## Retail
 
 [MakeMapsStudio](https://www.etsy.com/uk/shop/MakeMapsStudio?ref=simple-shop-header-name&listing_id=570851801)
+
 Custom Posters
 
 https://grafomap.com/editor/
 
 [Mapiful](https://www.mapiful.com/us/editor/location/)
+
+https://www.prynd.com/citymap/
 
 ## Tools 
 
