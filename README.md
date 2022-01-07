@@ -9,6 +9,8 @@ https://www.loc.gov/
 
 https://library.princeton.edu/
 
+https://maps.lib.utexas.edu/
+
 ## Custom
 
 https://anvaka.github.io/peak-map/#7.68/47.727/-122.574
