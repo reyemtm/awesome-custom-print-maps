@@ -1,6 +1,14 @@
 # awesome-custom-print-maps
 A curated listing of sites selling exclusively custom map-related products such as posters, mugs, 3D maps, etc.
 
+## Vintage Map Sources
+
+https://www.davidrumsey.com/
+
+https://www.loc.gov/
+
+https://library.princeton.edu/
+
 ## Custom
 
 https://anvaka.github.io/peak-map/#7.68/47.727/-122.574
