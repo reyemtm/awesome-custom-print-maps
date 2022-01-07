@@ -11,6 +11,11 @@ https://library.princeton.edu/
 
 https://maps.lib.utexas.edu/
 
+IIIF JPG 100% Response - 
+
+https://libimages.princeton.edu/loris/exhibits/nj-historic-maps/capemay/1872-cape-may-county-wall-map.jp2/full/pct:100/0/default.jpg
+
+
 ## Custom
 
 https://anvaka.github.io/peak-map/#7.68/47.727/-122.574
